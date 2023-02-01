@@ -1,3 +1,12 @@
+# Francesco Foschini
+
+Master's Degree Student in Engineering and Computer Science at University of Bologna.
+
+## Contacts
+
+ - Personal Email: francescofoschini.ff@gmail.com
+ - Academic Email: francesco.foschini6@studio.unibo.it
+
 ## Code stats
 
 <div align="center">
